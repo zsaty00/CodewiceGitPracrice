@@ -3,7 +3,10 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("Hello world!");
-        String str = "I am teacher";
-        System.out.println(str);
+
+        char ch = 'C';
+        System.out.println(ch);
+        
+
     }
 }
