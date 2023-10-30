@@ -8,8 +8,11 @@ public class Main {
         System.out.println(ch);
 
 
-        String str = "I made changes in future/qa branch";
-        System.out.println(str);
+        String first_name = "Bill";
+        String last_name = "Gates";
+        System.out.println( first_name );
+        System.out.println( last_name );
+        
 
     }
 }
